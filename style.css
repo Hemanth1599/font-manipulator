@@ -1,0 +1,17 @@
+.heading{
+    width: 100%;
+    font-size: 24px;
+    box-shadow: gray;
+}
+.heading p {
+    color: white;
+    font-size: 18px;
+}
+.copy_right_footer{
+    bottom: 0;
+    float: none;
+    background-color: grey;
+    color: floralwhite;
+    box-shadow: gray;
+
+}
